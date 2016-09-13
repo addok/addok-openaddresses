@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.csv
+*.sjson
+notes.md
+.cli_history
+*.egg-info/
+site/
+*.log*
+build/
+dist/
+.coverage
+.cache
+scripts/*
+htmlcov/*
+prof/
